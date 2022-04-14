@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m am doing some contribution to the **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/prakashcc/prakashcc)**
 
